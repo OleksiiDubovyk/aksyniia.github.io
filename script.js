@@ -1,5 +1,4 @@
-// counting days to new year
-const countDownDateTime = new Date(2023, 1, 5, 19, 28, 0).getTime();
+const countDownDateTime = new Date("2023-01-05T03:19:20").getTime();
 const daysValue = document.querySelector("#days");
 const hoursValue = document.querySelector("#hours");
 const minutesValue = document.querySelector("#minutes");
