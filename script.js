@@ -1,4 +1,4 @@
-const countDownDateTime = new Date("2024-01-12T12:17:20+01:00").getTime();
+const countDownDateTime = new Date("2025-01-24T11:00:00+01:00").getTime();
 const daysValue = document.querySelector("#days");
 const hoursValue = document.querySelector("#hours");
 const minutesValue = document.querySelector("#minutes");
